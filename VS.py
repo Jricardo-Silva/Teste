@@ -1,0 +1,1 @@
+print("Esse arquivo foi editado pelo VS")
